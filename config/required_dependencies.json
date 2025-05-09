@@ -1,0 +1,16 @@
+{
+  "requiredDependencies": [
+    {
+      "name": "adb"
+    },
+    {
+      "name": "gum"
+    },
+    {
+      "name": "gzip"
+    },
+    {
+      "name": "tar"
+    }
+  ]
+}
